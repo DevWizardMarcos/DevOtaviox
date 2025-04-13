@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=DevOtaviox&theme=dracula" alt="Layout with last medium posts"  />
-</div>
 
-###
 
 <h4 align="center">Aqui estou eu, iniciando minha carreira como Dev. almejo chegar ao topo que a carreira possa me proporcionar. Que venham os problemas e os desafios, vou solucionar todos eles, se não consigo buscarei conhecimento para resolver-los.</h4>
 
@@ -26,9 +22,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DevOtaviox/DevOtaviox/output/snake.svg" alt="Snake animation" />
 
 ###
